@@ -31,5 +31,6 @@ de Sfax, je recherche un stage Full Stack à partir de mars 2027.
 
 ## Contact et disponibilité
 
+- LinkedIn : [khaled-zouari-434320276](https://www.linkedin.com/in/khaled-zouari-434320276/)
 - Email : [zouarik8@gmail.com](mailto:zouarik8@gmail.com)
 - Disponible pour un stage à partir de mars 2027.
