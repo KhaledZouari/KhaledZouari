@@ -1,6 +1,7 @@
 # Khaled Zouari
 
-Élève ingénieur en informatique à l’ESIGELEC Rouen, en échange depuis l’IIT de Sfax, je recherche un stage Full Stack à partir de mars 2027.
+Élève ingénieur en informatique à l’ESIGELEC Rouen, en échange depuis l’IIT
+de Sfax, je recherche un stage Full Stack à partir de mars 2027.
 
 ## Stack
 
@@ -15,11 +16,18 @@
 
 ## Projets sélectionnés
 
-- [EduTrack](https://github.com/KhaledZouari/edutrack) — Gestion de cours en ligne avec Spring Boot, Angular, PostgreSQL et Firebase.
-- [Covoiturage — backend](https://github.com/KhaledZouari/cov-backend) — API de gestion des trajets, réservations, véhicules et réclamations avec Java et Spring Boot.
-- [Covoiturage — frontend](https://github.com/KhaledZouari/cov) — Interface web de covoiturage avec React et TypeScript.
-- [Enterprise BI Dashboard](https://github.com/KhaledZouari/EnterpriseBIDashboard) — Tableau de bord décisionnel ASP.NET Core exploitant SQL Server Analysis Services et MDX.
-- [MiniDrawFX Professional](https://github.com/KhaledZouari/MinDrawFX) — Application de dessin JavaFX avec persistance SQLite et JSON.
+- [EduTrack](https://github.com/KhaledZouari/edutrack) — Gestion de cours en
+  ligne avec Spring Boot, Angular, PostgreSQL et Firebase.
+- [Covoiturage — backend](https://github.com/KhaledZouari/cov-backend) — API
+  de gestion des trajets, réservations, véhicules et réclamations avec Java
+  et Spring Boot.
+- [Covoiturage — frontend](https://github.com/KhaledZouari/cov) — Interface
+  web de covoiturage avec React et TypeScript.
+- [Enterprise BI Dashboard](https://github.com/KhaledZouari/EnterpriseBIDashboard)
+  — Tableau de bord décisionnel ASP.NET Core exploitant SQL Server Analysis
+  Services et MDX.
+- [MiniDrawFX Professional](https://github.com/KhaledZouari/MinDrawFX) —
+  Application de dessin JavaFX avec persistance SQLite et JSON.
 
 ## Contact et disponibilité
 
