@@ -22,6 +22,7 @@ du backend jusqu’à l’interface utilisateur.
 
 | Projet | Présentation | Technologies |
 | --- | --- | --- |
+| [Production Atelier](https://github.com/KhaledZouari/production-atelier) | Solution MES de gestion et de pilotage de la production textile : rendements, traçabilité, alertes et tableaux de bord | React, Node.js, Express, SQL Server |
 | [EduTrack](https://github.com/KhaledZouari/edutrack) | Plateforme de gestion de cours en ligne | Spring Boot, Angular, PostgreSQL, Firebase |
 | [Stats Weaver Dash](https://github.com/KhaledZouari/stats-weaver-dash) | Tableau de bord analytique connecté à Supabase | React, TypeScript, Supabase |
 | [Enterprise BI Dashboard](https://github.com/KhaledZouari/EnterpriseBIDashboard) | Tableau de bord décisionnel pour un cube SSAS | ASP.NET Core, SQL Server, MDX |
