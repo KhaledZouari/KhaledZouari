@@ -4,7 +4,7 @@
 de Sfax. Je conçois des applications web full stack et des outils métier, du
 backend jusqu’à l’interface utilisateur.
 
-📍 Rouen, France — mobile dans toute la France
+📍 Rouen, France — mobile dans toute la France<br>
 🎯 Je recherche un **stage Full Stack à partir de mars 2027**.
 
 ## Compétences principales
@@ -39,4 +39,4 @@ Server.
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-zouari-434320276/)
 - [Email](mailto:zouarik8@gmail.com)
-- CV téléchargeable : lien public à ajouter après validation de la version finale
+- [CV — dépôt public](https://github.com/KhaledZouari/cv-khaled-zouari) — PDF final à ajouter
