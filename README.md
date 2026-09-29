@@ -4,7 +4,7 @@
 de Sfax. Je conçois des applications web full stack et des outils métier, du
 backend jusqu’à l’interface utilisateur.
 
-📍 Rouen, France — mobile dans toute la France  
+📍 Rouen, France — mobile dans toute la France
 🎯 Je recherche un **stage Full Stack à partir de mars 2027**.
 
 ## Compétences principales
