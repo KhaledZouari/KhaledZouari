@@ -1,8 +1,6 @@
-<div align="center">
-
 # Khaled Zouari
 
-### Élève ingénieur informatique · Développement Full Stack
+**Élève ingénieur informatique · Développement Full Stack**
 
 Je conçois des applications web et métier avec **Java / Spring Boot**,
 **React / TypeScript**, **Angular** et **.NET**. Mon travail porte notamment sur
@@ -13,8 +11,6 @@ données décisionnelles.
 [![Localisation](https://img.shields.io/badge/Localisation-Rouen-0969DA?style=flat-square)](https://www.openstreetmap.org/search?query=Rouen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Zouari-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khaled-zouari-434320276/)
 [![CV](https://img.shields.io/badge/CV-Télécharger-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/KhaledZouari/cv-khaled-zouari/raw/main/Khaled_ZOUARI_CV.pdf)
-
-</div>
 
 ## Projets sélectionnés
 
@@ -29,29 +25,35 @@ données décisionnelles.
 
 ## Compétences techniques
 
-```text
-Backend       Java · Spring Boot · Spring Security · Node.js · Express · ASP.NET Core
-Frontend      React · TypeScript · Angular · JavaScript · Tailwind CSS
-Données       PostgreSQL · MySQL · SQL Server · SQLite · SSAS · MDX
-Qualité       JUnit · Vitest · tests métier · intégration continue · revue de dépendances
-Outils        Git · GitHub Actions · Maven · npm · Swagger / OpenAPI
-```
+- **Backend :** Java, Spring Boot, Spring Security, Node.js, Express et
+  ASP.NET Core.
+- **Frontend :** React, TypeScript, Angular, JavaScript et Tailwind CSS.
+- **Données :** PostgreSQL, MySQL, SQL Server, SQLite, SSAS et MDX.
+- **Qualité :** JUnit, Vitest, tests métier, intégration continue et revue de
+  dépendances.
+- **Outils :** Git, GitHub Actions, Maven, npm et Swagger/OpenAPI.
 
 ## Ma manière de travailler
 
-- Séparer clairement l’interface, la logique métier et l’accès aux données.
+- Séparer clairement l’interface, la logique métier et l’accès aux
+  données.
 - Sécuriser les configurations sensibles avec des variables d’environnement.
-- Livrer des changements vérifiables par des tests, un build reproductible et une CI.
-- Documenter les choix techniques, les limites connues et les étapes d’installation.
+- Livrer des changements vérifiables par des tests, un build reproductible
+  et une CI.
+- Documenter les choix techniques, les limites connues et les étapes
+  d’installation.
 
 ## En ce moment
 
 - Recherche d’un **stage en développement logiciel à partir de mars 2027**.
 - Renforcement des tests métier et des pipelines d’intégration continue.
-- Migration progressive des dépendances et amélioration de la sécurité des projets.
+- Migration progressive des dépendances et amélioration de la sécurité des
+  projets.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-zouari-434320276/)
-- [CV au format PDF](https://github.com/KhaledZouari/cv-khaled-zouari/raw/main/Khaled_ZOUARI_CV.pdf)
+- [CV au format PDF][cv]
 - [Dépôts GitHub](https://github.com/KhaledZouari?tab=repositories)
+
+[cv]: https://github.com/KhaledZouari/cv-khaled-zouari/raw/main/Khaled_ZOUARI_CV.pdf
