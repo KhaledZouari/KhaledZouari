@@ -4,7 +4,7 @@
 
 ### Élève ingénieur informatique · Développement Full Stack
 
-Je conçois des applications web et métier avec **Java / Spring Boot**, 
+Je conçois des applications web et métier avec **Java / Spring Boot**,
 **React / TypeScript**, **Angular** et **.NET**. Mon travail porte notamment sur
 les API sécurisées, les interfaces de pilotage, la qualité logicielle et les
 données décisionnelles.
