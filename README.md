@@ -39,4 +39,4 @@ Server.
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-zouari-434320276/)
 - [Email](mailto:zouarik8@gmail.com)
-- [CV — dépôt public](https://github.com/KhaledZouari/cv-khaled-zouari) — PDF final à ajouter
+- [Télécharger mon CV](https://raw.githubusercontent.com/KhaledZouari/cv-khaled-zouari/main/Khaled_ZOUARI_CV.pdf)
