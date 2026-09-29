@@ -1,6 +1,6 @@
 # Khaled Zouari
 
-**Élève ingénieur informatique · Développement Full Stack**
+> Élève ingénieur informatique · Développement Full Stack
 
 Je conçois des applications web et métier avec **Java / Spring Boot**,
 **React / TypeScript**, **Angular** et **.NET**. Mon travail porte notamment sur
