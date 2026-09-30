@@ -1,6 +1,6 @@
 # Khaled Zouari
 
-### Software Engineering Student · Full-Stack & Business Applications
+## Software Engineering Student · Full-Stack & Business Applications
 
 I build reliable web and business applications with **Java / Spring Boot**,
 **React / TypeScript**, **Angular**, and **.NET**. I care about secure APIs,
@@ -46,5 +46,7 @@ clear architecture, tested business logic, and decision-ready data.
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/khaled-zouari-434320276/) ·
-[Resume](https://github.com/KhaledZouari/cv-khaled-zouari/raw/main/Khaled_ZOUARI_CV.pdf) ·
+[Resume][resume] ·
 [Repositories](https://github.com/KhaledZouari?tab=repositories)
+
+[resume]: /KhaledZouari/cv-khaled-zouari/raw/main/Khaled_ZOUARI_CV.pdf
