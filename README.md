@@ -16,6 +16,7 @@ clear architecture, tested business logic, and decision-ready data.
 | Project | Engineering focus | Stack | Evidence |
 | --- | --- | --- | --- |
 | [Production Atelier](https://github.com/KhaledZouari/production-atelier) | Textile production platform with MES tracking, traceability, and operational dashboards | React, Node.js, Express, SQL Server | Source, tests, CI |
+| [PFE — Treatment-Cycle Quotation Module](https://github.com/KhaledZouari/pfe-clinisys-devis-cures) | Documentation of an internal quotation-preparation module for treatments organized in cycles | JavaScript, Handlebars, REST/JSON | Architecture, security limits, and evidence checklist |
 | [EduTrack](https://github.com/KhaledZouari/edutrack) | Role-based course management platform with a secured REST API | Spring Boot, Angular, PostgreSQL | Source, tests, CI |
 | [Sales Analytics](https://github.com/KhaledZouari/sales-analytics-dashboard) | Interactive sales, customer, and product analytics | React, TypeScript, Recharts | [Live demo](https://khaledzouari.github.io/sales-analytics-dashboard/) |
 | [Carpooling Platform](https://github.com/KhaledZouari/carpooling-platform) | Three-role carpooling workflow backed by JWT authentication | React, TypeScript, Spring Boot, MySQL | Source, tests, CI |
