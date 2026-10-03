@@ -46,6 +46,10 @@ Each gallery describes the displayed workflow, local configuration and data
 scope. Runtime captures use fictional demonstration data or aggregate academic
 BI results. The CliniSYS documentation labels its anonymized reconstructions.
 
+| Software workflows | Data analytics and applied ML |
+| --- | --- |
+| [![Production Atelier MES dashboard](https://raw.githubusercontent.com/KhaledZouari/production-atelier/main/docs/screenshots/mes-overview.png)](https://github.com/KhaledZouari/production-atelier#application-screenshots) | [![EnergyInsight Power BI overview](https://raw.githubusercontent.com/KhaledZouari/energyinsight-tunisia/main/docs/images/powerbi-overview.png)](https://github.com/KhaledZouari/energyinsight-tunisia#power-bi-results) |
+
 | Project | Visual evidence |
 | --- | --- |
 | Production Atelier | [MES, tracking sheets and baskets](https://github.com/KhaledZouari/production-atelier#application-screenshots) |
