@@ -35,10 +35,28 @@ verifiable results.
 | [EnergyInsight Tunisia](https://github.com/KhaledZouari/energyinsight-tunisia) | Billing pipeline over 4.48 million source invoices, customer risk prioritization and held-out model evaluation | Python, Pandas, scikit-learn, MySQL, Power BI | [Case study and results](https://khaled-zouari-portfolio.vercel.app/en/projects/energyinsight-tunisia/), dashboard captures, tests, CI |
 | [Treatment-Cycle Quotation Module](https://github.com/KhaledZouari/pfe-clinisys-devis-cures) | Full-stack portfolio for an internal quotation-preparation module | C#, .NET, SQL Server, JavaScript, Handlebars | Architecture, security boundaries, evidence checklist |
 | [EduTrack](https://github.com/KhaledZouari/edutrack) | Role-based course management with a secured REST API | Spring Boot, Angular, PostgreSQL | Source, tests, CI |
-| [Sales Analytics](https://github.com/KhaledZouari/sales-analytics-dashboard) | Interactive sales, customer, and product analytics | React, TypeScript, Recharts | [Live demo](https://khaledzouari.github.io/sales-analytics-dashboard/) |
+| [Sales Analytics](https://github.com/KhaledZouari/sales-analytics-dashboard) | Sales-analysis UI prototype with bundled client/product examples | React, TypeScript, Recharts | [Live demo](https://khaledzouari.github.io/sales-analytics-dashboard/) |
 | [Carpooling Platform](https://github.com/KhaledZouari/carpooling-platform) | Three-role carpooling workflow with JWT authentication | React, TypeScript, Spring Boot, MySQL | Source, tests, CI |
 | [Enterprise BI Dashboard](https://github.com/KhaledZouari/enterprise-bi-dashboard) | Decision-support interface backed by a multidimensional SSAS cube | ASP.NET Core, C#, SSAS, MDX | Source, CI |
 | [MiniDrawFX](https://github.com/KhaledZouari/minidrawfx) | Desktop vector editor using design patterns and multiple persistence strategies | Java 21, JavaFX, SQLite, JUnit | [v1.0.0](https://github.com/KhaledZouari/minidrawfx/releases/tag/v1.0.0) |
+
+## See the applications running
+
+Each gallery describes the displayed workflow, local configuration and data
+scope. Runtime captures use fictional demonstration data or aggregate academic
+BI results. The CliniSYS documentation labels its anonymized reconstructions.
+
+| Project | Visual evidence |
+| --- | --- |
+| Production Atelier | [MES, tracking sheets and baskets](https://github.com/KhaledZouari/production-atelier#application-screenshots) |
+| Carpooling Platform | [Search, driver and administrator workflows](https://github.com/KhaledZouari/carpooling-platform#application-screenshots) |
+| EduTrack | [Course catalog and administration](https://github.com/KhaledZouari/edutrack#application-screenshots) |
+| Enterprise BI | [SSAS overview and sales analysis](https://github.com/KhaledZouari/enterprise-bi-dashboard#application-screenshots) |
+| Sales Analytics | [Fictional client and product examples](https://github.com/KhaledZouari/sales-analytics-dashboard#application-screenshots) |
+| MiniDrawFX | [Running JavaFX vector editor](https://github.com/KhaledZouari/minidrawfx#application-screenshots) |
+| Online Bookstore | [Catalog, book details and authenticated cart](https://github.com/KhaledZouari/online-bookstore-symfony#application-screenshots) |
+| EnergyInsight Tunisia | [Power BI results](https://github.com/KhaledZouari/energyinsight-tunisia#power-bi-results) |
+| CliniSYS module | [Anonymized workflow reconstructions](https://github.com/KhaledZouari/pfe-clinisys-devis-cures#interface-previews) |
 
 ## Technical toolkit
 
